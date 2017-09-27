@@ -1,6 +1,6 @@
 GITHUB DOWNLOAD DESIGN:
 	git clone <url of design database>
-	Example: git clone https://github.tamu.edu/venkateshwar-k/design_update
+	Example: git clone https://github.com/ramachandran-swati/ml_uvm_cache.git
 	It will ask your username and password. Enter your Unix account credentials.
 
 SIMULATION README
